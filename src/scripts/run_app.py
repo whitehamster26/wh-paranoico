@@ -2,7 +2,7 @@ from src import app
 
 
 def main():
-    app.hello_world()
+    app.show_connections()
 
 
 if __name__ == "__main__":

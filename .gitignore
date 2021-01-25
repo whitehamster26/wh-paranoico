@@ -6,3 +6,5 @@ dist/
 .idea/
 .coverage
 .vscode/
+paranoico.log
+paranoico-report.json
